@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+h1{
+    font-size: 30px;
+}
+
+label, .form-control{
+    font-size: 14px;
+}
+
+img{
+    position: relative;
+    top: 3em;
+    left: 3em;
+}
+
+.container{
+    position: relative;
+    top: 4.5em;
+    background-color: #6c63ff;
+}
+
+.container-md{
+   
+    background-color: #fffffff0;
+    border-radius:10px ;
+}
+
+.card{
+    width: 80%;
+    margin: 30px;
+}
+
